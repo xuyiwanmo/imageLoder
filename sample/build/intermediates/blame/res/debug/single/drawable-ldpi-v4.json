@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_error.png",
+        "source": "D:\\ASproject\\retrofit\\imageLoder\\sample\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "D:\\ASproject\\retrofit\\imageLoder\\sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_empty.png",
+        "source": "D:\\ASproject\\retrofit\\imageLoder\\sample\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_stub.png",
+        "source": "D:\\ASproject\\retrofit\\imageLoder\\sample\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    }
+]

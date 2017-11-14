@@ -1,0 +1,4 @@
+#Sat Nov 11 17:54:30 CST 2017
+base.0=D\:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

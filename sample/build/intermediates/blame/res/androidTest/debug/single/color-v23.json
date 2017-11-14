@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\ASproject\\retrofit\\imageLoder\\sample\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\德医互联\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\387fde79ec9ed37a8676db176d6045e7\\res\\color-v23\\abc_tint_default.xml"
+    }
+]
